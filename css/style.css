@@ -1,0 +1,14 @@
+.bgimage {
+	background-image: url(../image/header.jpg); 
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	width: 100%
+}
+.aboutbg{
+		background-image: url(../image/aboutbg.jpg); 
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	width: 100%
+}
