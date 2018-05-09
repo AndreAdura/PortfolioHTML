@@ -3,7 +3,8 @@
 	background-position: center center;
 	background-size: cover;
 	height: 200px;
-	width: 100%
+	width: 100%;
+	padding: 0px;
 }
 .aboutbg{
 		background-image: url(../image/aboutbg.jpg); 
@@ -11,4 +12,31 @@
 	background-size: cover;
 	height: 200px;
 	width: 100%
+}
+.skillbg{
+
+			background-image: url(../image/aboutbg.jpg); 
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	width: 100%
+}
+.study{
+	background-image: url(../image/aboutbg.jpg); 
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	width: 100%
+}
+.media{
+	background-image: url(../image/aboutbg.jpg); 
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+	width: 100%
+
+}
+.header{
+	padding: 0px;
+	margin: 0px;
 }
